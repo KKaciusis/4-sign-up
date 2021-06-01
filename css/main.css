@@ -23,8 +23,11 @@ main {
 .left-column {
   width: 40%;
   float: left;
-  padding: 20px;
-  background-color: yellow;
+  padding: 40px;
+  background-image: url(../img/hill.jpg);
+  background-size: cover;
+  background-position: right bottom;
+  color: aliceblue;
 }
 
 .bottom-links {
@@ -39,6 +42,7 @@ main {
 
 .main-title {
   font-size: 60px;
+margin-bottom: 300px;
 }
 
 .right-column {
@@ -46,6 +50,7 @@ main {
   float: left;
   padding: 60px;
   background-color: white;
+
 }
 
 .close {
