@@ -47,6 +47,8 @@ main {
 
 .bottom-links {
 color: white;
+position: absolute;
+bottom: 25px;
 }
 .bottom-links > a {
   color: white;
