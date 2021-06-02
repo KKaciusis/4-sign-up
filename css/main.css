@@ -31,13 +31,13 @@ main {
 }
 
 .bottom-links {
-
+color: white;
 }
 .bottom-links > a {
-
+  color: white;
 }
 .bottom-links > span {
-
+  color: white;
 }
 
 .main-title {
